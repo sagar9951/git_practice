@@ -47,12 +47,6 @@
 </dependency>
 
 
-  	<dependency>
-  		<groupId>tyss_practice</groupId>
-  		<artifactId>practicesdet</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	
   	<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 <dependency>
     <groupId>commons-io</groupId>
